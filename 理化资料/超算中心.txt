@@ -1,0 +1,10 @@
+超算中心机器
+IP：202.198.21.184     端口：222
+用户名：huili
+密码：huili_jlu
+直接用外网连接
+交作业：bsub< filename
+查看作业： bjobs      查看所有作业：bjobs   -d
+杀死作业：bkill
+
+对于192.9.200.34,密码是：Passswd
